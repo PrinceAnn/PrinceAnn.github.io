@@ -19,7 +19,7 @@
 * Period: 2022.09–2026.06
 * Institution: Fudan University
 * Major Courses: Software Engineering, Data Structures, Algorithm Design, Advanced Web Development, Compilers, Operating Systems, Computer Networks, Computer Graphics, Artificial Intelligence, Computer Vision, etc.
-Internship Experience
+# Internship Experience
 * Company: Pinduoduo
 * Position: Algorithm Intern
 * Period: 2025-6.26 - 2025-9.26
